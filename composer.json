@@ -1,0 +1,14 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "Nicole Goh",
+        "email": "21011122@myrp.edu.sg"
+      }
+    ],
+    "require": {
+    }
+  }
